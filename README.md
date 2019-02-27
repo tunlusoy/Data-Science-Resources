@@ -87,6 +87,38 @@ https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
   
   - Natural Language Processing
   
+    HotspotQA Dataset: https://hotpotqa.github.io/
+
+    Enron Dataset: https://www.cs.cmu.edu/~./enron/
+
+    Amazon Reviews: https://snap.stanford.edu/data/web-Amazon.html
+
+    Google Books Ngrams: https://aws.amazon.com/datasets/google-books-ngrams/
+
+    Blogger Corpus: A collection 681,288-blog posts gathered from blogger.com. Each blog contains a minimum of 200 occurrences of commonly used English words.
+    http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm
+
+    Wikipedia Links data: The full text of Wikipedia. The dataset contains almost 1.9 billion words from more than 4 million articles. You can search by word, phrase or part of a paragraph itself.
+    https://code.google.com/p/wiki-links/downloads/list
+
+    Gutenberg eBooks List: Annotated list of ebooks from Project Gutenberg.
+    http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs
+
+    Hansards text chunks of Canadian Parliament: 1.3 million pairs of texts from the records of the 36th Canadian Parliament.
+    http://www.isi.edu/natural-language/download/hansard/
+
+    Jeopardy: Archive of more than 200,000 questions from the quiz show Jeopardy.
+    http://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/
+
+    SMS Spam Collection in English: A dataset that consists of 5,574 English SMS spam messages
+    http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/
+
+    Yelp Reviews: An open dataset released by Yelp, contains more than 5 million reviews.
+    https://www.yelp.com/dataset
+
+    UCI’s Spambase: A large spam email dataset, useful for spam filtering.
+    https://archive.ics.uci.edu/ml/datasets/Spambase
+  
   - Self-Driving
   
   - Clinical
