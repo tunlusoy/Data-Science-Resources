@@ -21,14 +21,11 @@ https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
 - Dataset Finders
   - [Kaggle](https://www.kaggle.com/datasets): A data science site that contains a variety of externally contributed interesting datasets. You can find all kinds of niche datasets in its master list, from ramen ratings to basketball data to and even seattle pet licenses.
     
-  - UCI Machine Learning Repository
-  http://mlr.cs.umass.edu/ml/
+  - [UCI Machine Learning Repository](http://mlr.cs.umass.edu/ml/): One of the oldest sources of datasets on the web, and a great first stop when looking for interesting datasets.
   
-  - VisualData (Discover computer vision datasets by category, it allows searchable queries)
-  https://www.visualdata.io/
-  
-  - Google Dataset Search (beta)
-  https://toolbox.google.com/datasetsearch
+  - [VisualData](https://www.visualdata.io/) (Discover computer vision datasets by category, it allows searchable queries)
+    
+  - [Google Dataset Search (beta)](https://toolbox.google.com/datasetsearch)
   
 - General Datasets
   - Government
