@@ -19,9 +19,8 @@ https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
 
 ## Data Sources
 - Dataset Finders
-  - Kaggle: A data science site that contains a variety of externally contributed interesting datasets. You can find all kinds of niche datasets in its master list, from ramen ratings to basketball data to and even seattle pet licenses.
-  https://www.kaggle.com/datasets
-  
+  - [Kaggle](https://www.kaggle.com/datasets): A data science site that contains a variety of externally contributed interesting datasets. You can find all kinds of niche datasets in its master list, from ramen ratings to basketball data to and even seattle pet licenses.
+    
   - UCI Machine Learning Repository
   http://mlr.cs.umass.edu/ml/
   
@@ -185,5 +184,8 @@ https://deeplearning.mit.edu/
   12. Road Segmentation
   GitHub: https://github.com/ndrplz/self-driving-car/tree/master/project_12_road_segmentation
   
+- Engineering Uncertainty Estimation in Neural Networks for Time Series Prediction at Uber
+https://eng.uber.com/neural-networks-uncertainty-estimation/
+
 ## Books
   
