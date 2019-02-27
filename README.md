@@ -85,55 +85,71 @@ https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
 
   - Sentiment Analysis
   
-    Multidomain sentiment analysis dataset: http://www.cs.jhu.edu/~mdredze/datasets/sentiment/
+    [Multidomain sentiment analysis dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/): A slightly older dataset that features product reviews from Amazon.
 
-    IMDB reviews: http://ai.stanford.edu/~amaas/data/sentiment/
+    [IMDB reviews](http://ai.stanford.edu/~amaas/data/sentiment/): An older, relatively small dataset for binary sentiment classification features 25,000 movie reviews.
 
-    Stanford Sentiment Treebank: http://nlp.stanford.edu/sentiment/code.html
+    [Stanford Sentiment Treebank](http://nlp.stanford.edu/sentiment/code.html): Standard sentiment dataset with sentiment annotations.
 
-    Sentiment140: http://help.sentiment140.com/for-students/
+    [Sentiment140](http://help.sentiment140.com/for-students/): A popular dataset, which uses 160,000 tweets with emoticons pre-removed.
 
-    Twitter US Airline Sentiment: https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+    [Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment): Twitter data on US airlines from February 2015, classified as positive, negative, and neutral tweets.
   
   - Natural Language Processing
   
-    HotspotQA Dataset: https://hotpotqa.github.io/
+    [HotspotQA Dataset](https://hotpotqa.github.io/): Question answering dataset featuring natural, multi-hop questions, with strong supervision for supporting facts to enable more explainable question answering systems.
 
-    Enron Dataset: https://www.cs.cmu.edu/~./enron/
+    [Enron Dataset](https://www.cs.cmu.edu/~./enron/): Email data from the senior management of Enron, organized into folders.
 
-    Amazon Reviews: https://snap.stanford.edu/data/web-Amazon.html
+    [Amazon Reviews](https://snap.stanford.edu/data/web-Amazon.html): Contains around 35 million reviews from Amazon spanning 18 years. Data include product and user information, ratings, and the plaintext review.
 
-    Google Books Ngrams: https://aws.amazon.com/datasets/google-books-ngrams/
+    [Google Books Ngrams](https://aws.amazon.com/datasets/google-books-ngrams/): A collection of words from Google books.
 
-    Blogger Corpus: A collection 681,288-blog posts gathered from blogger.com. Each blog contains a minimum of 200 occurrences of commonly used English words.
-    http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm
-
-    Wikipedia Links data: The full text of Wikipedia. The dataset contains almost 1.9 billion words from more than 4 million articles. You can search by word, phrase or part of a paragraph itself.
-    https://code.google.com/p/wiki-links/downloads/list
-
-    Gutenberg eBooks List: Annotated list of ebooks from Project Gutenberg.
-    http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs
-
-    Hansards text chunks of Canadian Parliament: 1.3 million pairs of texts from the records of the 36th Canadian Parliament.
-    http://www.isi.edu/natural-language/download/hansard/
-
-    Jeopardy: Archive of more than 200,000 questions from the quiz show Jeopardy.
-    http://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/
-
-    SMS Spam Collection in English: A dataset that consists of 5,574 English SMS spam messages
-    http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/
-
-    Yelp Reviews: An open dataset released by Yelp, contains more than 5 million reviews.
-    https://www.yelp.com/dataset
-
-    UCI’s Spambase: A large spam email dataset, useful for spam filtering.
-    https://archive.ics.uci.edu/ml/datasets/Spambase
-  
+    [Blogger Corpus](http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm): A collection 681,288-blog posts gathered from blogger.com. Each blog contains a minimum of 200 occurrences of commonly used English words.
+    
+    [Wikipedia Links data](https://code.google.com/p/wiki-links/downloads/list): The full text of Wikipedia. The dataset contains almost 1.9 billion words from more than 4 million articles. You can search by word, phrase or part of a paragraph itself.
+    
+    [Gutenberg eBooks List](http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs): Annotated list of ebooks from Project Gutenberg.
+    
+    [Hansards text chunks of Canadian Parliament](http://www.isi.edu/natural-language/download/hansard/): 1.3 million pairs of texts from the records of the 36th Canadian Parliament.
+    
+    [Jeopardy](http://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/): Archive of more than 200,000 questions from the quiz show Jeopardy.
+    
+    [SMS Spam Collection in English](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/): A dataset that consists of 5,574 English SMS spam messages
+    
+    [Yelp Reviews](https://www.yelp.com/dataset): An open dataset released by Yelp, contains more than 5 million reviews.
+    
+    [UCI’s Spambase](https://archive.ics.uci.edu/ml/datasets/Spambase): A large spam email dataset, useful for spam filtering.
+      
   - Self-Driving
   
+    [Berkeley DeepDrive BDD100k](http://bdd-data.berkeley.edu/): Currently the largest dataset for self-driving AI. Contains over 100,000 videos of over 1,100-hour driving experiences across different times of the day and weather conditions. The annotated images come from New York and San Francisco areas.
+
+    [Baidu Apolloscapes](http://apolloscape.auto/): Large dataset that defines 26 different semantic items such as cars, bicycles, pedestrians, buildings, streetlights, etc.
+
+    [Comma.ai](https://archive.org/details/comma-dataset): More than 7 hours of highway driving. Details include car’s speed, acceleration, steering angle, and GPS coordinates.
+
+    [Oxford’s Robotic Car](http://robotcar-dataset.robots.ox.ac.uk/): Over 100 repetitions of the same route through Oxford, UK, captured over a period of a year. The dataset captures different combinations of weather, traffic and pedestrians, along with long-term changes such as construction and roadworks.
+
+    [Cityscape Dataset](https://www.cityscapes-dataset.com/): A large dataset that records urban street scenes in 50 different cities.
+
+    [CSSAD Dataset](http://aplicaciones.cimat.mx/Personal/jbhayet/ccsad-dataset): This dataset is useful for perception and navigation of autonomous vehicles. The dataset skews heavily on roads found in the developed world.
+
+    [KUL Belgium Traffic Sign Dataset](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/): More than 10000+ traffic sign annotations from thousands of physically distinct traffic signs in the Flanders region in Belgium.
+
+    [MIT AGE Lab](http://lexfridman.com/automated-synchronization-of-driving-data-video-audio-telemetry-accelerometer/): A sample of the 1,000+ hours of multi-sensor driving datasets collected at AgeLab.
+
+    [LISA](http://cvrr.ucsd.edu/LISA/datasets.html): Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets: This dataset includes traffic signs, vehicles detection, traffic lights, and trajectory patterns.
+
+    [Bosch Small Traffic Light Dataset](https://hci.iwr.uni-heidelberg.de/node/6132): Dataset for small traffic lights for deep learning.
+
+    [LaRa Traffic Light Recognition](http://www.lara.prd.fr/benchmarks/trafficlightsrecognition): Another dataset for traffic lights. This is taken in Paris.
+
+    [WPI datasets](http://computing.wpi.edu/dataset.html): Datasets for traffic lights, pedestrian and lane detection.
+    
   - Clinical
   
-  - 
+    [MIMIC-III](https://mimic.physionet.org/): Openly available dataset developed by the MIT Lab for Computational Physiology, comprising de-identified health data associated with ~40,000 critical care patients. It includes demographics, vital signs, laboratory tests, medications, and more.
 
 ## Articles and Blogs on How to Use Specific Tools for Data Science
 - Microsoft SQL Server & Azure
