@@ -174,6 +174,18 @@ https://datascience.berkeley.edu/academics/curriculum/
 - MIT Deep Learning
 https://deeplearning.mit.edu/
 
+- MIT Data Science and Big Data Analytics: Making Data-Driven Decisions
+https://mitxpro.mit.edu/courses/course-v1:MITxPRO+DSx+1T2019/
+
+- Harvard Data Science: Machine Learning
+https://online-learning.harvard.edu/course/data-science-machine-learning
+
+- Harward Professional Certificate in Data Science
+https://www.edx.org/professional-certificate/harvardx-data-science
+
+- How to Win a Data Science Competition: Learn from Top Kagglers
+https://www.coursera.org/learn/competitive-data-science?specialization=aml
+
 - 12 Projects That Helps You Become a Self-Driving Car Engineer (Python and C++ Code Available)
   1. Finding Lane Lines on the Road
   Github: https://github.com/ndrplz/self-driving-car/tree/master/project_1_lane_finding_basic
