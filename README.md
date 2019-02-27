@@ -152,20 +152,39 @@ https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
     [MIMIC-III](https://mimic.physionet.org/): Openly available dataset developed by the MIT Lab for Computational Physiology, comprising de-identified health data associated with ~40,000 critical care patients. It includes demographics, vital signs, laboratory tests, medications, and more.
 
 ## Articles and Blogs on How to Use Specific Tools for Data Science
-- Microsoft SQL Server & Azure
-  - SQL Server 2017 Machine Learning Services Visualization and Data Analysis
-  https://www.mssqltips.com/sqlservertip/5943/sql-server-2017-machine-learning-services-visualization-and-data-analysis/
-
-- Tensor Flow
-  - TensorBoard (a tool for providing the measurement and visualizations needed during the ML workflow)
-  https://colab.research.google.com/github/tensorflow/tensorboard/blob/master/docs/r2/tensorboard_quickstart.ipynb
-
 - Python
+  
+  - Python.org
+  https://www.python.org/
+  
+  - Tableau Python integration
+  https://github.com/tableau/TabPy
+  
   - How to Read Most Commonly Used File Formats in Data Science
   https://www.analyticsvidhya.com/blog/2017/03/read-commonly-used-formats-using-python/
 
   - Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas
   https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/
+  
+- Azure / Microsoft
+  
+  - Azure Analytics: A comprehensive set of solutions that turn your data into actionable insights
+  https://azure.microsoft.com/en-us/product-categories/analytics/
+  
+  - SQL Server 2017 Machine Learning Services Visualization and Data Analysis
+  https://www.mssqltips.com/sqlservertip/5943/sql-server-2017-machine-learning-services-visualization-and-data-analysis/
+
+- Google
+
+  - Tensor Flow (An open source machine learning framework)
+  https://www.tensorflow.org/
+  
+  - TensorBoard (a tool for providing the measurement and visualizations needed during the ML workflow)
+  https://colab.research.google.com/github/tensorflow/tensorboard/blob/master/docs/r2/tensorboard_quickstart.ipynb
+
+- Geospacial
+
+  - Open Source GIS Tools (including data prep): https://gisgeography.com/free-gis-software/
   
 ## Online Data Science Courses and Projects
 - Online Master of Information and Data Science (UC Berkeley School of Information)
