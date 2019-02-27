@@ -29,8 +29,8 @@ https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
   
 - General Datasets
   - Government
-  https://www.data.gov
-  https://catalog.data.gov/dataset/food-environment-atlas-f4a22
+    [Data.gov](https://www.data.gov): This site makes it possible to download data from multiple US government agencies. Data can range from government budgets to school performance scores. Be warned though: much of the data requires additional research.
+    [Food Environment Atlas](https://catalog.data.gov/dataset/food-environment-atlas-f4a22): Contains data on how local food choices affect diet in the US.
   https://catalog.data.gov/dataset/annual-survey-of-school-system-finances
   https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi-e50c9
   https://nces.ed.gov/
