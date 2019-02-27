@@ -46,42 +46,42 @@ https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
   
   - Finance and Economics
   
-    Quandl: https://www.quandl.com/
+    [Quandl](https://www.quandl.com/): A good source for economic and financial data — useful for building models to predict economic indicators or stock prices.
   
-    World Bank Open Data: https://data.worldbank.org/
+    [World Bank Open Data](https://data.worldbank.org/): Datasets covering population demographics, a huge number of economic, and development indicators from across the world.
     
-    IMF Data: https://www.imf.org/en/Data
+    [IMF Data](https://www.imf.org/en/Data): The International Monetary Fund publishes data on international finances, debt rates, foreign exchange reserves, commodity prices and investments.
     
-    Financial Times Market Data: https://markets.ft.com/data/
+    [Financial Times Market Data](https://markets.ft.com/data/): Up to date information on financial markets from around the world, including stock price indexes, commodities and foreign exchange.
     
-    Google Trends: http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0
+    [Google Trends](http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0): Examine and analyze data on internet search activity and trending news stories around the world.
     
-    American Economic Association (AEA): https://www.aeaweb.org/resources/data/us-macro-regional
+    [American Economic Association (AEA)](https://www.aeaweb.org/resources/data/us-macro-regional): A good source to find US macroeconomic data.
     
-    Federal Reserve Economic Data: https://fred.stlouisfed.org/
+    [Federal Reserve Economic Data](https://fred.stlouisfed.org/):
 
 - Machine Learning Datasets
   - Images
   
-    Labelme: http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php
+    [Labelme](http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php): A large dataset of annotated images.
 
-    ImageNet: http://image-net.org/
+    [ImageNet](http://image-net.org/): The de-facto image dataset for new algorithms, organized according to the WordNet hierarchy, in which hundreds and thousands of images depict each node of the hierarchy.
 
-    LSUN: http://lsun.cs.princeton.edu/2016/
+    [LSUN](http://lsun.cs.princeton.edu/2016/): Scene understanding with many ancillary tasks (room layout estimation, saliency prediction, etc.)
 
-    MS COCO: http://mscoco.org/
+    [MS COCO](http://mscoco.org/): Generic image understanding and captioning.
 
-    COIL100: http://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php
+    [COIL100](http://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php): 100 different objects imaged at every angle in a 360 rotation.
 
-    Visual Genome: http://visualgenome.org/
+    [Visual Genome](http://visualgenome.org/): Very detailed visual knowledge base with captioning of ~100K images.
 
-    Google’s Open Images: https://research.googleblog.com/2016/09/introducing-open-images-dataset.html
+    [Google’s Open Images](https://research.googleblog.com/2016/09/introducing-open-images-dataset.html): A collection of 9 million URLs to images “that have been annotated with labels spanning over 6,000 categories” under Creative Commons.
 
-    Labelled Faces in the Wild: http://vis-www.cs.umass.edu/lfw/
+    [Labelled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/): 13,000 labeled images of human faces, for use in developing applications that involve facial recognition.
 
-    Stanford Dogs Dataset: http://vision.stanford.edu/aditya86/ImageNetDogs/
+    [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/): Contains 20,580 images and 120 different dog breed categories.
 
-    Indoor Scene Recognition: http://web.mit.edu/torralba/www/indoor.html
+    [Indoor Scene Recognition](http://web.mit.edu/torralba/www/indoor.html): A very specific dataset and very useful, as most scene recognition models are better ‘outside’. Contains 67 Indoor categories, and 15620 images.
 
   - Sentiment Analysis
   
