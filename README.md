@@ -29,22 +29,36 @@ https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
   
 - General Datasets
   - Government
+  
     [Data.gov](https://www.data.gov): This site makes it possible to download data from multiple US government agencies. Data can range from government budgets to school performance scores. Be warned though: much of the data requires additional research.
+  
     [Food Environment Atlas](https://catalog.data.gov/dataset/food-environment-atlas-f4a22): Contains data on how local food choices affect diet in the US.
-  https://catalog.data.gov/dataset/annual-survey-of-school-system-finances
-  https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi-e50c9
-  https://nces.ed.gov/
-  https://www.ukdataservice.ac.uk/
-  http://datausa.io/
+  
+    [School System Finances](https://catalog.data.gov/dataset/annual-survey-of-school-system-finances): A survey of the finances of school systems in the US.
+    
+    [Chronic Disease Data](https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi-e50c9): Data on chronic disease indicators in areas across the US.
+    
+    [The US National Center for Education Statistics](https://nces.ed.gov/): Data on educational institutions and education demographics from the US and around the world.
+    
+    [The UK Data Service](https://www.ukdataservice.ac.uk/): The UK’s largest collection of social, economic and population data.
+    
+    [Data USA](http://datausa.io/): A comprehensive visualization of US public data.
   
   - Finance and Economics
-  Quandl: https://www.quandl.com/
-  World Bank Open Data: https://data.worldbank.org/
-  IMF Data: https://www.imf.org/en/Data
-  Financial Times Market Data: https://markets.ft.com/data/
-  Google Trends: http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0
-  American Economic Association (AEA): https://www.aeaweb.org/resources/data/us-macro-regional
-  Federal Reserve Economic Data: https://fred.stlouisfed.org/
+  
+    Quandl: https://www.quandl.com/
+  
+    World Bank Open Data: https://data.worldbank.org/
+    
+    IMF Data: https://www.imf.org/en/Data
+    
+    Financial Times Market Data: https://markets.ft.com/data/
+    
+    Google Trends: http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0
+    
+    American Economic Association (AEA): https://www.aeaweb.org/resources/data/us-macro-regional
+    
+    Federal Reserve Economic Data: https://fred.stlouisfed.org/
 
 - Machine Learning Datasets
   - Images
