@@ -60,6 +60,11 @@ https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
     
     [Federal Reserve Economic Data](https://fred.stlouisfed.org/):
 
+- Geospacial Data
+ 
+  Pitney Bowes
+  - https://www.pitneybowes.com/us/data
+  
 - Machine Learning Datasets
   - Images
   
