@@ -2,8 +2,14 @@
 Variety of curated data science resources
 
 ## Knowledge Base for Data Science
+- CRISP-DM (CRoss Industry Standard Process for Data Mining)
+https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining
+
 - Machine Learning Glossary (Google)
 https://developers.google.com/machine-learning/glossary/
+
+- Artificial Intelligence Wiki
+https://www.datarobot.com/wiki/
 
 - Machine Learning for Everyone (no math required)
 https://vas3k.com/blog/machine_learning/
@@ -213,6 +219,9 @@ https://www.edx.org/professional-certificate/harvardx-data-science
 - Microsoft Academy: Professional Program
 https://academy.microsoft.com/en-us/professional-program/
 
+- Learning from ML Experts at Google
+https://ai.google/education
+
 - How to Win a Data Science Competition: Learn from Top Kagglers
 https://www.coursera.org/learn/competitive-data-science?specialization=aml
 
@@ -257,4 +266,16 @@ https://www.coursera.org/learn/competitive-data-science?specialization=aml
 https://eng.uber.com/neural-networks-uncertainty-estimation/
 
 ## Books
-  
+- Data Science for Business
+
+
+## Machine Learning Automation Tools
+- Data Robot
+https://www.datarobot.com
+
+- RapidMiner
+https://www.rapidminer.com
+
+- Tazi.ai
+https://tazi.ai/
+
