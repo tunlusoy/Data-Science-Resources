@@ -52,27 +52,38 @@ https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
 
 - Machine Learning Datasets
   - Images
-  Labelme: http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php
+  
+    Labelme: http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php
 
-  ImageNet: http://image-net.org/
+    ImageNet: http://image-net.org/
 
-  LSUN: http://lsun.cs.princeton.edu/2016/
+    LSUN: http://lsun.cs.princeton.edu/2016/
 
-  MS COCO: http://mscoco.org/
+    MS COCO: http://mscoco.org/
 
-  COIL100: http://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php
+    COIL100: http://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php
 
-  Visual Genome: http://visualgenome.org/
+    Visual Genome: http://visualgenome.org/
 
-  Google’s Open Images: https://research.googleblog.com/2016/09/introducing-open-images-dataset.html
+    Google’s Open Images: https://research.googleblog.com/2016/09/introducing-open-images-dataset.html
 
-  Labelled Faces in the Wild: http://vis-www.cs.umass.edu/lfw/
+    Labelled Faces in the Wild: http://vis-www.cs.umass.edu/lfw/
 
-  Stanford Dogs Dataset: http://vision.stanford.edu/aditya86/ImageNetDogs/
+    Stanford Dogs Dataset: http://vision.stanford.edu/aditya86/ImageNetDogs/
 
-  Indoor Scene Recognition: http://web.mit.edu/torralba/www/indoor.html
+    Indoor Scene Recognition: http://web.mit.edu/torralba/www/indoor.html
 
   - Sentiment Analysis
+  
+    Multidomain sentiment analysis dataset: http://www.cs.jhu.edu/~mdredze/datasets/sentiment/
+
+    IMDB reviews: http://ai.stanford.edu/~amaas/data/sentiment/
+
+    Stanford Sentiment Treebank: http://nlp.stanford.edu/sentiment/code.html
+
+    Sentiment140: http://help.sentiment140.com/for-students/
+
+    Twitter US Airline Sentiment: https://www.kaggle.com/crowdflower/twitter-airline-sentiment
   
   - Natural Language Processing
   
