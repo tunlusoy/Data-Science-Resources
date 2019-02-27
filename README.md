@@ -5,8 +5,85 @@ Variety of curated data science resources
 - Machine Learning Glossary (Google)
 https://developers.google.com/machine-learning/glossary/
 
+- Machine Learning for Everyone (no math required)
+https://vas3k.com/blog/machine_learning/
+
+- A Visual Introduction to Machine Learning
+http://www.r2d3.us/
+
+- A Visual Introduction to Probability and Statistics
+https://seeing-theory.brown.edu/index.html#firstPage
+
+- Ideas on interpreting machine learning (O'Reilly)
+https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
+
+## Data Sources
+- Dataset Finders
+  - Kaggle
+  https://www.kaggle.com/datasets
+  
+  - UCI Machine Learning Repository
+  http://mlr.cs.umass.edu/ml/
+  
+  - VisualData (Discover computer vision datasets by category, it allows searchable queries)
+  https://www.visualdata.io/
+  
+  - Google Dataset Search (beta)
+  https://toolbox.google.com/datasetsearch
+  
+- General Datasets
+  - Government
+  https://www.data.gov
+  https://catalog.data.gov/dataset/food-environment-atlas-f4a22
+  https://catalog.data.gov/dataset/annual-survey-of-school-system-finances
+  https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi-e50c9
+  https://nces.ed.gov/
+  https://www.ukdataservice.ac.uk/
+  http://datausa.io/
+  
+  - Finance and Economics
+  Quandl: https://www.quandl.com/
+  World Bank Open Data: https://data.worldbank.org/
+  IMF Data: https://www.imf.org/en/Data
+  Financial Times Market Data: https://markets.ft.com/data/
+  Google Trends: http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0
+  American Economic Association (AEA): https://www.aeaweb.org/resources/data/us-macro-regional
+  Federal Reserve Economic Data: https://fred.stlouisfed.org/
+
+- Machine Learning Datasets
+  - Images
+  Labelme: http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php
+
+  ImageNet: http://image-net.org/
+
+  LSUN: http://lsun.cs.princeton.edu/2016/
+
+  MS COCO: http://mscoco.org/
+
+  COIL100: http://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php
+
+  Visual Genome: http://visualgenome.org/
+
+  Google’s Open Images: https://research.googleblog.com/2016/09/introducing-open-images-dataset.html
+
+  Labelled Faces in the Wild: http://vis-www.cs.umass.edu/lfw/
+
+  Stanford Dogs Dataset: http://vision.stanford.edu/aditya86/ImageNetDogs/
+
+  Indoor Scene Recognition: http://web.mit.edu/torralba/www/indoor.html
+
+  - Sentiment Analysis
+  
+  - Natural Language Processing
+  
+  - Self-Driving
+  
+  - Clinical
+  
+  - 
+
 ## Articles and Blogs on How to Use Specific Tools for Data Science
-- Microsoft SQL Server
+- Microsoft SQL Server & Azure
   - SQL Server 2017 Machine Learning Services Visualization and Data Analysis
   https://www.mssqltips.com/sqlservertip/5943/sql-server-2017-machine-learning-services-visualization-and-data-analysis/
 
@@ -24,6 +101,9 @@ https://developers.google.com/machine-learning/glossary/
 ## Online Data Science Courses and Projects
 - Online Master of Information and Data Science (UC Berkeley School of Information)
 https://datascience.berkeley.edu/academics/curriculum/
+
+- MIT Deep Learning
+https://deeplearning.mit.edu/
 
 - 12 Projects That Helps You Become a Self-Driving Car Engineer (Python and C++ Code Available)
   1. Finding Lane Lines on the Road
@@ -61,3 +141,6 @@ https://datascience.berkeley.edu/academics/curriculum/
 
   12. Road Segmentation
   GitHub: https://github.com/ndrplz/self-driving-car/tree/master/project_12_road_segmentation
+  
+## Books
+  
