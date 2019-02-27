@@ -19,7 +19,7 @@ https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
 
 ## Data Sources
 - Dataset Finders
-  - Kaggle
+  - Kaggle: A data science site that contains a variety of externally contributed interesting datasets. You can find all kinds of niche datasets in its master list, from ramen ratings to basketball data to and even seattle pet licenses.
   https://www.kaggle.com/datasets
   
   - UCI Machine Learning Repository
