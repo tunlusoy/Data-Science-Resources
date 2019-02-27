@@ -17,6 +17,9 @@ https://seeing-theory.brown.edu/index.html#firstPage
 - Ideas on interpreting machine learning (O'Reilly)
 https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning
 
+- The Complete Guide to A/B Testing
+https://vwo.com/ab-testing/
+
 ## Data Sources
 - Dataset Finders
   - [Kaggle](https://www.kaggle.com/datasets): A data science site that contains a variety of externally contributed interesting datasets. You can find all kinds of niche datasets in its master list, from ramen ratings to basketball data to and even seattle pet licenses.
@@ -206,6 +209,9 @@ https://online-learning.harvard.edu/course/data-science-machine-learning
 
 - Harward Professional Certificate in Data Science
 https://www.edx.org/professional-certificate/harvardx-data-science
+
+- Microsoft Academy: Professional Program
+https://academy.microsoft.com/en-us/professional-program/
 
 - How to Win a Data Science Competition: Learn from Top Kagglers
 https://www.coursera.org/learn/competitive-data-science?specialization=aml
