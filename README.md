@@ -279,3 +279,5 @@ https://www.rapidminer.com
 - Tazi.ai
 https://tazi.ai/
 
+- Spark Beyond
+https://www.sparkbeyond.com/
