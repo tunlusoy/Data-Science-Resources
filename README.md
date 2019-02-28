@@ -171,10 +171,13 @@ https://vwo.com/ab-testing/
   - Python.org
   https://www.python.org/
   
+  - PyTorch
+  https://www.cuelogic.com/blog/pytorch-in-10-mins
+  
   - Tableau Python integration
   https://github.com/tableau/TabPy
   
-  - How to Read Most Commonly Used File Formats in Data Science
+  - How to Read Most Commonly Used File Formats in Data Science Using Python
   https://www.analyticsvidhya.com/blog/2017/03/read-commonly-used-formats-using-python/
 
   - Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas
