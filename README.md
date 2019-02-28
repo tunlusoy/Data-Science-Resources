@@ -216,6 +216,16 @@ https://online-learning.harvard.edu/course/data-science-machine-learning
 - Harward Professional Certificate in Data Science
 https://www.edx.org/professional-certificate/harvardx-data-science
 
+- Udacity School of Data Science Nanodegree
+https://www.udacity.com/school-of-data-science
+
+- Udacity School of Autonomous Systems Nanodegree
+https://www.udacity.com/school-of-autonomous-systems
+
+- Udacity School of Artificial Intelligence Nanodegree
+https://www.udacity.com/school-of-ai
+https://www.udacity.com/course/ai-for-trading--nd880
+
 - Microsoft Academy: Professional Program
 https://academy.microsoft.com/en-us/professional-program/
 
