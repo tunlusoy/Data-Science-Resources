@@ -4,6 +4,9 @@ Variety of curated data science resources
 ## Data Science and Analytics Organizations
 - [Certified Analytics Professionals](https://www.certifiedanalytics.org/)
 
+## Data Science Strategy
+- [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/)
+
 ## Knowledge Base for Data Science
 - [CRISP-DM (CRoss Industry Standard Process for Data Mining)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
 
