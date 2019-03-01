@@ -29,7 +29,7 @@ Variety of curated data science resources
 - [What is a Scree Plot?](https://en.wikipedia.org/wiki/Scree_plot)
 
 ## Data Sources
-- https://github.com/tunlusoy/Data-Science-Data-Sources/blob/master/README.md
+- [Data Science Data Sources](https://github.com/tunlusoy/Data-Science-Data-Sources/blob/master/README.md)
 
 ## Articles and Blogs on How to Use Specific Tools for Data Science
 - Python
