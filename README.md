@@ -7,6 +7,8 @@ Variety of curated data science resources
 ## Data Science Strategy
 - [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/)
 
+- [Mary Meeker's 2018 Internet Trends Report](https://www.recode.net/2018/5/30/17385116/mary-meeker-slides-internet-trends-code-conference-2018)
+
 ## Knowledge Base for Data Science
 - [CRISP-DM (CRoss Industry Standard Process for Data Mining)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
 
