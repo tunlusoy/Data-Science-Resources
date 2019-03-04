@@ -79,7 +79,7 @@ Variety of curated data science resources
 - [Data Strategy](https://www.amazon.com/Data-Strategy-Profit-Analytics-Internet/dp/074947985X/)
 
 ## Machine Learning Automation Tools and Platforms
-- Data Science and Analytics Tools and Platforms
-https://github.com/tunlusoy/Data-Science-Tools/edit/master/README.md
+- [Data Science and Analytics Tools and Platforms](https://github.com/tunlusoy/Data-Science-Tools)
+
 
 
