@@ -4,6 +4,8 @@ Variety of curated data science resources
 ## Data Science and Analytics Organizations
 - [Certified Analytics Professionals](https://www.certifiedanalytics.org/)
 
+- [Open Neural Network Exchange Format - The new open ecosystem for interchangeable AI models](https://onnx.ai/)
+
 ## Data Science Strategy
 - [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/)
 
