@@ -80,7 +80,7 @@ Variety of curated data science resources
 - [Data Science for Business](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
 - [Data Strategy](https://www.amazon.com/Data-Strategy-Profit-Analytics-Internet/dp/074947985X/)
 
-## Machine Learning Automation Tools and Platforms
+## Data Science and Analytics Tools and Platforms
 - [Data Science and Analytics Tools and Platforms](https://github.com/tunlusoy/Data-Science-Tools)
 
 
