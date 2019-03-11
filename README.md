@@ -32,6 +32,8 @@ Variety of curated data science resources
 
 - [What is a Scree Plot?](https://en.wikipedia.org/wiki/Scree_plot)
 
+- [Machine Learning - Introduction to its Algorithms - MLAlgos](https://vinodsblog.com/2018/03/26/machine-learning-introduction-to-its-algorithms-mlalgos/)
+
 ## Data Sources
 - [Data Science Data Sources](https://github.com/tunlusoy/Data-Science-Data-Sources/blob/master/README.md)
 
