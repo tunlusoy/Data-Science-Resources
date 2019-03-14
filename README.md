@@ -84,5 +84,8 @@ Variety of curated data science resources
 ## Data Science and Analytics Tools and Platforms
 - [Data Science and Analytics Tools and Platforms](https://github.com/tunlusoy/Data-Science-Tools)
 
+## Other Useful Resources
+- [Git Discoverer](https://gitdiscoverer.shinyapps.io/rstudio-shiny-contest/): Data Science Influences, Trending Repos, Trending Developers
+
 
 
