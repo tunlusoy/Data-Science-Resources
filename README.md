@@ -43,17 +43,17 @@ Variety of curated data science resources
   - Python.org
   https://www.python.org/
   
-  - PyTorch
-  https://www.cuelogic.com/blog/pytorch-in-10-mins
+  - [PyTorch](https://www.cuelogic.com/blog/pytorch-in-10-mins): 
   
-  - Tableau Python integration
-  https://github.com/tableau/TabPy
+  - [Pyro](http://pyro.ai/): A deep probabilistic programming language built on PyTorch, and continuing to improve with the help of the open source community.
   
-  - How to Read Most Commonly Used File Formats in Data Science Using Python
-  https://www.analyticsvidhya.com/blog/2017/03/read-commonly-used-formats-using-python/
+  - [Horovod](http://horovod.ai/): Another major open source AI tool created by Uber, a framework hosted by the [LF Deep Learning Foundation](https://www.linuxfoundation.org/projects/deep-learning/join/) that allows distributed training of deep learning models over multiple GPUs and several machines.
+  
+  - [Tableau Python integration](https://github.com/tableau/TabPy): 
+  
+  - [How to Read Most Commonly Used File Formats in Data Science Using Python](https://www.analyticsvidhya.com/blog/2017/03/read-commonly-used-formats-using-python/): 
 
-  - Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas
-  https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/
+  - [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/):
   
 - Azure / Microsoft
   
@@ -65,12 +65,12 @@ Variety of curated data science resources
 
 - Google
 
-  - Tensor Flow (An open source machine learning framework)
-  https://www.tensorflow.org/
+  - [Tensor Flow (An open source machine learning framework)](https://www.tensorflow.org/)
   
-  - TensorBoard (a tool for providing the measurement and visualizations needed during the ML workflow)
-  https://colab.research.google.com/github/tensorflow/tensorboard/blob/master/docs/r2/tensorboard_quickstart.ipynb
+  - [TensorBoard (a tool for providing the measurement and visualizations needed during the ML workflow)](https://colab.research.google.com/github/tensorflow/tensorboard/blob/master/docs/r2/tensorboard_quickstart.ipynb)
 
+  - [Ludwig](https://uber.github.io/ludwig/): An open source, deep learning toolbox built on top of TensorFlow that allows users to train and test deep learning models without writing code.
+  
 - Geospacial
 
   - Open Source GIS Tools (including data prep): https://gisgeography.com/free-gis-software/
