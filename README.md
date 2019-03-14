@@ -55,6 +55,8 @@ Variety of curated data science resources
 
   - [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/):
   
+  - [Understanding Feature Engineering (Part 4) — A hands-on intuitive approach to Deep Learning Methods for Text Data — Word2Vec, GloVe and FastText](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa): Newer, advanced strategies for taming unstructured, textual data
+  
 - Azure / Microsoft
   
   - Azure Analytics: A comprehensive set of solutions that turn your data into actionable insights
