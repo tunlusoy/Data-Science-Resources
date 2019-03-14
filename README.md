@@ -74,6 +74,11 @@ Variety of curated data science resources
 - Geospacial
 
   - Open Source GIS Tools (including data prep): https://gisgeography.com/free-gis-software/
+
+- Bias in Data Science
+
+  - [Survivorship bias – lessons from World War Two aircraft](https://clearthinking.co/survivorship-bias/)
+  
   
 ## Online Data Science Courses and Projects
 - [Data Science Courses and Projects](https://github.com/tunlusoy/Data-Science-Courses-and-Projects/blob/master/README.md)
