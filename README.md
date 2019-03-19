@@ -94,5 +94,10 @@ Variety of curated data science resources
 ## Other Useful Resources
 - [Git Discoverer](https://gitdiscoverer.shinyapps.io/rstudio-shiny-contest/): Data Science Influences, Trending Repos, Trending Developers
 
+- [Anthony Goldbloom, Founder & CEO of Kaggle - Lessons from 2MM machine learning models](https://www.youtube.com/watch?v=GTs5ZQ6XwUM)
 
+- [Big Data: To Explain or To Predict?: Galit Shmueli](https://www.youtube.com/watch?v=d3_04o1BkGk)
 
+- [Six Types of Questions in a Data Analysis - Roger Peng](https://www.youtube.com/watch?v=GRNyEzQ26Ww)
+
+- [How Scale is Enabling Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=LcfLo7YP8O4)
