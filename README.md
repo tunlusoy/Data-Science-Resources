@@ -91,6 +91,15 @@ Variety of curated data science resources
 ## Data Science and Analytics Tools and Platforms
 - [Data Science and Analytics Tools and Platforms](https://github.com/tunlusoy/Data-Science-Tools)
 
+## Vendor Recommendations
+- [The Modeling Agency](https://www.the-modeling-agency.com): TMA provides training, mentorship and solutions to organizations that are data-rich, yet information-poor and has been privileged to provide services and solutions for hundreds of highly recognizable organizations.
+
+What sets TMA apart from other data mining consultancies is that TMA focuses on enabling its clients to internally operationalize data mining and predictive modeling. TMA’s services have enabled organizations across a vast spectrum of industries to establish and maintain their own predictive modeling practice.
+
+- [Data Revelations](https://datarevelations.com): is a training, consulting, and development practice devoted to helping organizations understand, analyze, and share their data.
+
+- [First San Francisco Partners](https://www.firstsanfranciscopartners.com/): is a business advisory and enterprise information management (EIM) consultancy dedicated to helping companies leverage their data to improve strategic decision-making, reduce risk, create operational efficiencies and fuel unprecedented business success.
+
 ## Other Useful Resources
 - [Git Discoverer](https://gitdiscoverer.shinyapps.io/rstudio-shiny-contest/): Data Science Influences, Trending Repos, Trending Developers
 
