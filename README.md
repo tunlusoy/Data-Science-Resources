@@ -6,6 +6,8 @@ Variety of curated data science resources
 
 - [ONNX - Open Neural Network Exchange Format - The new open ecosystem for interchangeable AI models](https://onnx.ai/)
 
+- [OpenML](https://www.openml.org/): The Open Machine Learning project is an inclusive movement to build an open, organized, online ecosystem for machine learning.
+
 ## Data Science Strategy
 - [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/)
 
