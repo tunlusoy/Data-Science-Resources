@@ -11,6 +11,8 @@ Variety of curated data science resources
 ## Data Science Strategy
 - [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/)
 
+- [Data Strategy Guidebook - What Every Executive Needs to Know](https://s3.amazonaws.com/eckerson/content_assets/assets/000/000/208/original/Data_Strategy_Guidebook.pdf)
+
 - [Mary Meeker's 2018 Internet Trends Report](https://www.recode.net/2018/5/30/17385116/mary-meeker-slides-internet-trends-code-conference-2018)
 
 ## Knowledge Base for Data Science
@@ -40,6 +42,9 @@ Variety of curated data science resources
 - [Data Science Data Sources](https://github.com/tunlusoy/Data-Science-Data-Sources/blob/master/README.md)
 
 ## Articles and Blogs on How to Use Specific Tools for Data Science
+- General
+  - [MIT CSAIL’s machine learning algorithm helps predict patterns in large data streams](https://venturebeat.com/2019/03/31/mit-csails-machine-learning-algorithm-helps-to-predict-patterns-in-large-data-streams/)
+  
 - Python
   
   - Python.org
