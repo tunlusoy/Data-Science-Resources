@@ -4,9 +4,11 @@ Variety of curated data science resources
 
 ## Data Science and Analytics Organizations
 
-- [Certified Analytics Professionals](https://www.certifiedanalytics.org/)
+- [Certified Analytics Professionals](https://www.certifiedanalytics.org/): CAP® is the premier global professional certification for analytics practitioners.
 
-- [ONNX - Open Neural Network Exchange Format - The new open ecosystem for interchangeable AI models](https://onnx.ai/)
+- [ONNX - Open Neural Network Exchange Format - The new open ecosystem for interchangeable AI models](https://onnx.ai/): Open ecosystem for interchangeable AI models. 
+
+  ONNX is a open format to represent deep learning models. With ONNX, AI developers can more easily move models between state-of-the-art tools and choose the combination that is best for them. ONNX is developed and supported by a community of partners.
 
 - [OpenML](https://www.openml.org/): The Open Machine Learning project is an inclusive movement to build an open, organized, online ecosystem for machine learning.
 
