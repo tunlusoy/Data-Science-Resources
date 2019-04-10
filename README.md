@@ -1,7 +1,9 @@
 # Data Science Resources
+
 Variety of curated data science resources
 
 ## Data Science and Analytics Organizations
+
 - [Certified Analytics Professionals](https://www.certifiedanalytics.org/)
 
 - [ONNX - Open Neural Network Exchange Format - The new open ecosystem for interchangeable AI models](https://onnx.ai/)
@@ -11,6 +13,7 @@ Variety of curated data science resources
 - [HIMSS Analytics](https://www.himssanalytics.org): HIMSS Analytics is a global healthcare advisor, providing guidance and market intelligence solutions that move the industry forward with insight to enable better health through the use of information and technology. HIMSS Analytics’ focus is collaboration with hospitals and clinical practices to track and benchmark their EMR adoption and utilization goals since 2005 -- through the EMR Adoption Model (EMRAM). EMRAM provides a roadmap and guidance along with an 8 -stage model with comparisons to healthcare organizations in the same country and around the world.
 
 ## Data Science Strategy
+
 - [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/)
 
 - [Data Strategy Guidebook - What Every Executive Needs to Know](https://s3.amazonaws.com/eckerson/content_assets/assets/000/000/208/original/Data_Strategy_Guidebook.pdf)
@@ -18,6 +21,7 @@ Variety of curated data science resources
 - [Mary Meeker's 2018 Internet Trends Report](https://www.recode.net/2018/5/30/17385116/mary-meeker-slides-internet-trends-code-conference-2018)
 
 ## Knowledge Base for Data Science
+
 - [CRISP-DM (CRoss Industry Standard Process for Data Mining)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
 
 - [Machine Learning Glossary (Google)](https://developers.google.com/machine-learning/glossary/)
@@ -41,26 +45,27 @@ Variety of curated data science resources
 - [Machine Learning - Introduction to its Algorithms - MLAlgos](https://vinodsblog.com/2018/03/26/machine-learning-introduction-to-its-algorithms-mlalgos/)
 
 ## Data Sources
+
 - [Data Science Data Sources](https://github.com/tunlusoy/Data-Science-Data-Sources/blob/master/README.md)
 
 ## Articles and Blogs on How to Use Specific Tools for Data Science
+
 - General
   - [MIT CSAIL’s machine learning algorithm helps predict patterns in large data streams](https://venturebeat.com/2019/03/31/mit-csails-machine-learning-algorithm-helps-to-predict-patterns-in-large-data-streams/)
   
 - Python
   
-  - Python.org
-  https://www.python.org/
+  - [Python.org](https://www.python.org/):
   
-  - [PyTorch](https://www.cuelogic.com/blog/pytorch-in-10-mins): 
+  - [PyTorch](https://www.cuelogic.com/blog/pytorch-in-10-mins):
   
   - [Pyro](http://pyro.ai/): A deep probabilistic programming language built on PyTorch, and continuing to improve with the help of the open source community.
   
   - [Horovod](http://horovod.ai/): Another major open source AI tool created by Uber, a framework hosted by the [LF Deep Learning Foundation](https://www.linuxfoundation.org/projects/deep-learning/join/) that allows distributed training of deep learning models over multiple GPUs and several machines.
   
-  - [Tableau Python integration](https://github.com/tableau/TabPy): 
+  - [Tableau Python integration](https://github.com/tableau/TabPy):
   
-  - [How to Read Most Commonly Used File Formats in Data Science Using Python](https://www.analyticsvidhya.com/blog/2017/03/read-commonly-used-formats-using-python/): 
+  - [How to Read Most Commonly Used File Formats in Data Science Using Python](https://www.analyticsvidhya.com/blog/2017/03/read-commonly-used-formats-using-python/):
 
   - [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/):
   
@@ -68,11 +73,9 @@ Variety of curated data science resources
   
 - Azure / Microsoft
   
-  - Azure Analytics: A comprehensive set of solutions that turn your data into actionable insights
-  https://azure.microsoft.com/en-us/product-categories/analytics/
+  - [Azure Analytics: A comprehensive set of solutions that turn your data into actionable insights](https://azure.microsoft.com/en-us/product-categories/analytics/):
   
-  - SQL Server 2017 Machine Learning Services Visualization and Data Analysis
-  https://www.mssqltips.com/sqlservertip/5943/sql-server-2017-machine-learning-services-visualization-and-data-analysis/
+  - [SQL Server 2017 Machine Learning Services Visualization and Data Analysis](https://www.mssqltips.com/sqlservertip/5943/sql-server-2017-machine-learning-services-visualization-and-data-analysis/)
 
 - Google
 
@@ -84,32 +87,36 @@ Variety of curated data science resources
   
 - Geospacial
 
-  - Open Source GIS Tools (including data prep): https://gisgeography.com/free-gis-software/
+  - [Open Source GIS Tools (including data prep)](https://gisgeography.com/free-gis-software/):
 
 - Bias in Data Science
 
-  - [Survivorship bias – lessons from World War Two aircraft](https://clearthinking.co/survivorship-bias/)
+  - [Survivorship bias – lessons from World War Two aircraft](https://clearthinking.co/survivorship-bias/):
   
   
 ## Online Data Science Courses and Projects
+
 - [Data Science Courses and Projects](https://github.com/tunlusoy/Data-Science-Courses-and-Projects/blob/master/README.md)
 
 ## Books
+
 - [Data Science Books](https://github.com/tunlusoy/Data-Science-Books/blob/master/README.md)
 
 ## Data Science and Analytics Tools and Platforms
+
 - [Data Science and Analytics Tools and Platforms](https://github.com/tunlusoy/Data-Science-Tools)
 
 ## Vendor Recommendations
 - [The Modeling Agency](https://www.the-modeling-agency.com): TMA provides training, mentorship and solutions to organizations that are data-rich, yet information-poor and has been privileged to provide services and solutions for hundreds of highly recognizable organizations.
 
-What sets TMA apart from other data mining consultancies is that TMA focuses on enabling its clients to internally operationalize data mining and predictive modeling. TMA’s services have enabled organizations across a vast spectrum of industries to establish and maintain their own predictive modeling practice.
+  What sets TMA apart from other data mining consultancies is that TMA focuses on enabling its clients to internally operationalize data mining and predictive modeling. TMA’s services have enabled organizations across a vast spectrum of industries to establish and maintain their own predictive modeling practice.
 
 - [Data Revelations](https://datarevelations.com): is a training, consulting, and development practice devoted to helping organizations understand, analyze, and share their data.
 
 - [First San Francisco Partners](https://www.firstsanfranciscopartners.com/): is a business advisory and enterprise information management (EIM) consultancy dedicated to helping companies leverage their data to improve strategic decision-making, reduce risk, create operational efficiencies and fuel unprecedented business success.
 
 ## Other Useful Resources
+
 - [Git Discoverer](https://gitdiscoverer.shinyapps.io/rstudio-shiny-contest/): Data Science Influences, Trending Repos, Trending Developers
 
 - [Anthony Goldbloom, Founder & CEO of Kaggle - Lessons from 2MM machine learning models](https://www.youtube.com/watch?v=GTs5ZQ6XwUM)
