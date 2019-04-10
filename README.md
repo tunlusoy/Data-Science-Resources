@@ -6,6 +6,8 @@ Variety of curated data science resources
 
 - [Certified Analytics Professionals](https://www.certifiedanalytics.org/): CAP® is the premier global professional certification for analytics practitioners.
 
+- [Certified Business Intelligence Professionals (CBIP)](https://tdwi.org/cbip): The CBIP certification program is intended for senior-level personnel in the information systems and technology industry with a focus on data management and business analytics. The cert demonstrates that you are up-to-date with BI technologies and are knowledgeable about best practices, solutions, and emerging trends.
+
 - [ONNX - Open Neural Network Exchange Format - The new open ecosystem for interchangeable AI models](https://onnx.ai/): Open ecosystem for interchangeable AI models. 
 
   ONNX is a open format to represent deep learning models. With ONNX, AI developers can more easily move models between state-of-the-art tools and choose the combination that is best for them. ONNX is developed and supported by a community of partners.
