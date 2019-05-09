@@ -57,6 +57,8 @@ Variety of curated data science resources
 - General
   - [MIT CSAIL’s machine learning algorithm helps predict patterns in large data streams](https://venturebeat.com/2019/03/31/mit-csails-machine-learning-algorithm-helps-to-predict-patterns-in-large-data-streams/)
   
+  - [ARTIFICIAL INTELLIGENCE TRENDS IN 2019](https://www.welcome.ai/news_info/strategy/artificial-intelligence-trends-in-2019): CB Insights analyzes the AI trends they see in 2019.
+  
 - Python
   
   - [Python.org](https://www.python.org/):
