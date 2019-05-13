@@ -16,6 +16,8 @@ Variety of curated data science resources
 
 - [HIMSS Analytics](https://www.himssanalytics.org): HIMSS Analytics is a global healthcare advisor, providing guidance and market intelligence solutions that move the industry forward with insight to enable better health through the use of information and technology. HIMSS Analytics’ focus is collaboration with hospitals and clinical practices to track and benchmark their EMR adoption and utilization goals since 2005 -- through the EMR Adoption Model (EMRAM). EMRAM provides a roadmap and guidance along with an 8 -stage model with comparisons to healthcare organizations in the same country and around the world.
 
+- [UNSPSC](https://www.unspsc.org/): The United Nations Standard Products and Services Code® (UNSPSC®), managed by GS1 US™ for the UN Development Programme (UNDP), is an open, global, multi-sector standard for efficient, accurate classification of products and services.
+
 ## Data Science Strategy
 
 - [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/)
